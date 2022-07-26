@@ -6,6 +6,7 @@ How to use github?
 https://skills.github.com/
 
 # GitHub Education	
+https://education.github.com/globalcampus/student
 ✨ 글로벌 캠퍼스에 오신 것을 환영합니다
 
 
